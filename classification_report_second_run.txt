@@ -1,0 +1,14 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+   Chihuahua       1.00      0.99      0.99       640
+      Muffin       0.99      1.00      0.99       544
+
+    accuracy                           0.99      1184
+   macro avg       0.99      0.99      0.99      1184
+weighted avg       0.99      0.99      0.99      1184
+
+
+Confusion Matrix:
+[[635   5]
+ [  2 542]]
